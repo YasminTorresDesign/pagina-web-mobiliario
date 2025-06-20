@@ -29,7 +29,8 @@ Creamos imágenes realistas y atractivas para mostrar cómo se verán los mueble
 
 ## 📁 Estructura del Proyecto
 
-`PAGINA-WEB-MOBILIARIO/
+```
+PAGINA-WEB-MOBILIARIO/
 ├── css/
 │ └── estilos.css
 ├── img/
